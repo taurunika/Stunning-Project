@@ -51,13 +51,6 @@
     border: 1px solid transparent;
 }
 
-.NewAccountBtn:hover {
-    color: #5D50C3;
-    background-color: #fff;
-    border: 1px solid #5D50C3;
-
-}
-
 .Arrows {
     margin: 0 12px;
     cursor: pointer;

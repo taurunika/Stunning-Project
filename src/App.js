@@ -4,14 +4,14 @@ import './App.css';
 
 import Topbar from './assets/topbar'
 import LandingSection from './assets/LandingSection'
-import EffectsSection from './assets/EffectsSection'
+import SubSection from './assets/SubSection'
 
 function App() {
   return (
     <div className="App">
       <Topbar />
       <LandingSection />
-      <EffectsSection />
+      <SubSection />
     </div>
   );
 }

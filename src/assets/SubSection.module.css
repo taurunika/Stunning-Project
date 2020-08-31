@@ -1,4 +1,4 @@
-.EffectsSection {
+.SubSection {
     width: 40%;
     display: flex;
     flex-direction: column;
@@ -8,7 +8,7 @@
     top: -350px;
 }
 
-.EachEffect {
+.colDesc {
     width: fit-content;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@
     width: 80%;
     margin-left: auto;
 }
-.EachEffectSec{
+.colDescSec{
     width: fit-content;
     display: flex;
     align-items: center;
@@ -31,18 +31,18 @@
     margin-left: auto;
     box-shadow: 4px 4px 10px #ccc;
 }
-.EachEffectLeft, .EachEffectRight {
+.colDescLeft, .colDescRight {
     display: flex;
     align-items: center;
 }
 
-.EachEffectLeft {
+.colDescLeft {
     margin-right: 24px;
     font-size: 14px;
     width: 60%;
 }
 
-.EachEffectRight {
+.colDescRight {
     display: flex;
     justify-content: space-between;
     width: 40%;
